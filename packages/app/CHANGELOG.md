@@ -1,5 +1,11 @@
 # @hyperdx/app
 
+## 2.20.1
+
+### Patch Changes
+
+- 705dd1b7: fix: Allow implicit column lucene search on services dashboard
+
 ## 2.20.0
 
 ### Minor Changes
