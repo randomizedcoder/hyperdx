@@ -1,5 +1,7 @@
 # @hyperdx/api
 
+## 2.20.1
+
 ## 2.20.0
 
 ### Minor Changes
